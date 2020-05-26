@@ -10,3 +10,4 @@ The following problems are covered under Binary tree
 - [101 Symmetric Tree](https://github.com/Chinmay6345/Trees/tree/master/Symmetric%20Tree)
 - [543 Diameter of Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Diameter%20of%20btree)
 - [104 Maximum Depth of Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Maximum%20depth%20of%20binary%20tree)
+- [Same Tree](https://github.com/Chinmay6345/Trees/tree/master/Same%20Tree)
