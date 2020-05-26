@@ -11,3 +11,5 @@ The following problems are covered under Binary tree
 - [543 Diameter of Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Diameter%20of%20btree)
 - [104 Maximum Depth of Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Maximum%20depth%20of%20binary%20tree)
 - [100 Same Tree](https://github.com/Chinmay6345/Trees/tree/master/Same%20Tree)
+- [226 Invert Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Invert%20a%20Btree)
+- [965 Univalued Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Univalued%20BTree)
