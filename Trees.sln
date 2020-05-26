@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diameter of btree", "Diamet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Same Tree", "Same Tree\Same Tree.csproj", "{9731D337-BE40-461F-A40B-80A02E5C2F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univalued BTree", "Univalued BTree\Univalued BTree.csproj", "{5346C92D-5C7F-43CF-BFD1-C541FA50B56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert a Btree", "Invert a Btree\Invert a Btree.csproj", "{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9731D337-BE40-461F-A40B-80A02E5C2F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9731D337-BE40-461F-A40B-80A02E5C2F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9731D337-BE40-461F-A40B-80A02E5C2F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5346C92D-5C7F-43CF-BFD1-C541FA50B56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5346C92D-5C7F-43CF-BFD1-C541FA50B56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5346C92D-5C7F-43CF-BFD1-C541FA50B56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5346C92D-5C7F-43CF-BFD1-C541FA50B56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
