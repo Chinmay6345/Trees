@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univalued BTree", "Univalue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert a Btree", "Invert a Btree\Invert a Btree.csproj", "{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construct Binary Tree from Preorder and Inorder Traversal", "Construct Binary Tree from Preorder and Inorder Traversal\Construct Binary Tree from Preorder and Inorder Traversal.csproj", "{D81F231E-2ADE-4B5F-9A2D-7BC1AE6B2988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F093ECD3-3BAF-4EEF-B789-3264EC3C4B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81F231E-2ADE-4B5F-9A2D-7BC1AE6B2988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81F231E-2ADE-4B5F-9A2D-7BC1AE6B2988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81F231E-2ADE-4B5F-9A2D-7BC1AE6B2988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81F231E-2ADE-4B5F-9A2D-7BC1AE6B2988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
