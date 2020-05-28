@@ -4,6 +4,7 @@
 
  ### Binary Tree
 
+- [105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [111 Minimum Depth of Binary Tree](https://github.com/Chinmay6345/Trees/tree/master/Miinmum%20depth%20Binary%20tree)
 - [57 Subtree of Another Tree](https://github.com/Chinmay6345/Trees/tree/master/Subtree%20of%20another%20tree)
 - [112 Path Sum](https://github.com/Chinmay6345/Trees/tree/master/Path%20Sum)
